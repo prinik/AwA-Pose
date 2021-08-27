@@ -1,0 +1,47 @@
+1.Antelope=283
+2.Bobcat=304
+3.Buffalo=242
+4.Chihuahua=299
+5.Collie=311
+6.Cow=301
+7.Dalmatian=304
+8.Deer=301
+9.Elephant=296
+10.Fox=315
+11.German+shepherd=303
+12.Giant+panda=302
+13.Giraffe=293
+14.Grizzly+bear=299
+15.Hippopotamus=290
+16.Horse=299
+17.Leopard=302
+18.Lion=290
+19.Moose=303
+20.Otter=294
+21.Ox=302
+22.Persian+cat=296
+23.Pig=302
+24.Polar+bear=302
+25.Rabbit=315
+26.Raccon=289
+27.Rhinoceros=293
+28.Sheep=281
+29.Siamese+cat=261
+30.Skunk=97
+31.Squirrel=314
+32.Tiger-296
+33.Weasel=202
+34.Wolf=296
+35.Zebra=287
+
+all animal count is:  {'moose': 318, 'otter': 305, 'ox': 318, 'persian+cat': 305, 'pig': 319, 'polar+bear': 317, 'rabbit': 315, 'raccoon': 306, 'fox': 325, 
+                       'german+shepherd': 318, 'giant+panda': 316, 'giraffe': 311, 'grizzly+bear': 316, 'hippopotamus': 311, 'horse': 317, 'leopard': 313, 
+					   'lion': 313, 'rat': 13, 'rhinoceros': 316, 'sample': 2, 'sheep': 314, 'siamese+cat': 283, 'skunk': 97, 'squirrel': 316, 'tiger': 315, 
+					   'weasel': 208, 'wolf': 315, 'zebra': 313, 'antelope': 304, 'bobcat': 310, 'buffalo': 257, 'chihuahua': 317, 'collie': 314, 'cow': 320,
+					   'dalmatian': 313, 'deer': 313, 'elephant': 313}
+
+Single animal count is: {'mole': 0, 'moose': 303, 'mouse': 0, 'otter': 294, 'ox': 302, 'persian+cat': 296, 'pig': 302, 'polar+bear': 302, 'rabbit': 315, 'raccoon': 289, 'fox': 315,
+ 'german+shepherd': 303, 'giant+panda': 302, 'giraffe': 293, 'grizzly+bear': 299, 'hamster': 0, 'hippopotamus': 290, 'horse': 299, 'leopard': 302, 'lion': 290, 'rat': 13,
+ 'rhinoceros': 293, 'sample': 2, 'sheep': 281, 'siamese+cat': 261, 'skunk': 97, 'squirrel': 314, 'tiger': 296, 'weasel': 202, 'wolf': 296, 'zebra': 287, 'antelope': 283, 
+ 'beaver': 0, 'bobcat': 304, 'buffalo': 242, 'chihuahua': 299, 'collie': 311, 'cow': 301, 'dalmatian': 304, 'deer': 301, 'elephant': 296}
+
