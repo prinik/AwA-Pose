@@ -22,9 +22,18 @@ with open('antelope_1234.pickle', 'rb') as f:
 arXiv Paper link
 ------------
 https://arxiv.org/pdf/2108.13958.pdf
+------------
 
 Annotation
 ------------
 <p align="center">
 <img src="Images/sample.png" width="380" height='430'>
+</p>
+
+------------
+
+Prediction Result
+------------
+<p align="center">
+<img src="Images/pred_hr.png" width="380" height='430'>
 </p>
