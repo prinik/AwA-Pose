@@ -1,3 +1,4 @@
+
 AwA Pose Dataset:
 ============
 
@@ -16,4 +17,8 @@ Read pickle annotation file
 import pickle
 with open('antelope_1234.pickle', 'rb') as f:
     x = pickle.load(f)
+
 ```    
+arXiv Paper link
+------------
+https://arxiv.org/pdf/2108.13958.pdf
