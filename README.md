@@ -9,7 +9,7 @@ Download images from https://cvml.ist.ac.at/AwA2/
 Download Annotations
 ------------
 ```bash
-git clone git+https://www.github.com/prinik/awa-pose
+git clone https://github.com/prinik/AwA-Pose.git
 ```
 Read pickle annotation file
 ------------
