@@ -1,4 +1,5 @@
 
+
 AwA Pose Dataset:
 ============
 
@@ -26,7 +27,7 @@ https://arxiv.org/pdf/2108.13958.pdf
 
 Code
 ------------
-For inference on a quadruped animal image, run
+For inference on a quadruped animal image, first download the pretrained model from [here](https://drive.google.com/file/d/1CAOgPwHol006ruELLloUJnEGU3zzjz6U/view?usp=sharing) to the code/deep-high-resolution-net.pytorch/ and then run
 
 ```bash
 ./demo.sh
