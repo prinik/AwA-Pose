@@ -26,7 +26,12 @@ https://arxiv.org/pdf/2108.13958.pdf
 
 Code
 ------------
+For inference on a quadruped image, run
 
+```bash
+./demo.sh
+
+```  
 ------------
 
 Annotation
